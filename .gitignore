@@ -1,0 +1,27 @@
+# working files
+.DS_Store
+*.swp
+*.Rhistory
+
+# binary files
+*.pyc
+*.zip
+
+# raw data
+data/
+
+# temporary directories
+tmp/
+
+# jupyter management files
+.ipynb_checkpoints/
+
+# log files
+*.log
+
+# R management files
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+*.RDS
