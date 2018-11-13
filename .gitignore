@@ -13,6 +13,9 @@ data/
 # temporary directories
 tmp/
 
+# model
+160/
+
 # jupyter management files
 .ipynb_checkpoints/
 
